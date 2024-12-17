@@ -15,5 +15,10 @@ namespace OOP_concepts
             int salary = Experience * 2000;
             Console.WriteLine(salary.ToString());
         }
+        
+        public virtual void Greeting()
+        {
+            Console.WriteLine("Base Class");
+        }
     }
 }

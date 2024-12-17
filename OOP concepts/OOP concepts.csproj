@@ -44,6 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Employee.cs" />
+    <Compile Include="MethodHidding.cs" />
+    <Compile Include="MethodOverLoading.cs" />
+    <Compile Include="MethodOverriding.cs" />
     <Compile Include="PermanantEmployee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
