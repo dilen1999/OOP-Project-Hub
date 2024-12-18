@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Constructor.cs" />
     <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeSalary.cs" />
     <Compile Include="MethodHidding.cs" />
     <Compile Include="MethodOverLoading.cs" />
     <Compile Include="MethodOverriding.cs" />

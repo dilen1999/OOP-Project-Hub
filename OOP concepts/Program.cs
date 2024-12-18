@@ -32,7 +32,13 @@ namespace OOP_concepts
 
             Console.WriteLine("-------------------Constructors--------------------");
             Constructor constructor = new Constructor();
-            Console.ReadLine();
+            
+
+            Console.WriteLine("-------------------Abstraction--------------------");
+            Employee employee1 = new Employee();
+            int salary = employee1.CalculateSalary();
+            Console.WriteLine(salary);
+
         }
     }
 }
