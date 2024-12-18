@@ -29,6 +29,9 @@ namespace OOP_concepts
             Console.WriteLine("-------------------Method Hiding--------------------");
             Employee objHidding = new MethodHidding();
             objHidding.Greeting();
+
+            Console.WriteLine("-------------------Constructors--------------------");
+            Constructor constructor = new Constructor();
             Console.ReadLine();
         }
     }

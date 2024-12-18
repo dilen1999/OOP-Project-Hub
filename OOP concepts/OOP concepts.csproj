@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constructor.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="MethodHidding.cs" />
     <Compile Include="MethodOverLoading.cs" />
